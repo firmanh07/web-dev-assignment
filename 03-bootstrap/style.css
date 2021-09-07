@@ -1,0 +1,32 @@
+table {
+    
+    margin-bottom: 50px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+section {
+    margin : auto;
+    display: flex;
+}
+.container {
+    margin-top: 100px;
+    background-color: aliceblue;
+    padding : 50px;
+   border-radius: 20px;
+}
+.container1 {
+    margin-top: 100px;
+    background-color: antiquewhite;
+    padding : 50px;
+   border-radius: 20px;
+}
+.container2 {
+    margin-top: 100px;
+    background-color: cornflowerblue;
+    padding : 50px;
+   border-radius: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
